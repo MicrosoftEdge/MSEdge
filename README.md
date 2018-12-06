@@ -1,6 +1,6 @@
 # Microsoft Edge and Chromium Open Source: Our Intent
 Authors: Microsoft Edge Team  
-Last Updated: 2018-12-05
+Last Updated: 2018-12-06
 
 ## Why this document 
 For the past few years, Microsoft has meaningfully increased participation in the open source software (OSS) community, becoming one of the world’s largest supporters of OSS projects. We are starting down a path to adopt Chromium open source in the development of Microsoft Edge on the desktop, becoming a larger contributor and user of its open source so that we can create better web compatibility for our customers and less-fragmentation of the web for all web developers. 
