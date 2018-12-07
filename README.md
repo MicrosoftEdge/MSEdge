@@ -94,4 +94,6 @@ To provide a more specific sense of what actions we’ll take with and following
 3. We’ll make a public announcement via blog post so that the external community of people interested will have a transparent view of our strategy change. 
 4. We’ll post this document to GitHub so any interested developer or web-community member can read about our plans directly.
 
+Whilst that we're also going to release the EdgeHTML rendering engine as open-source, just as we did with the ChakraCore.
+
 We invite your comments, advice, and feedback as we begin to engage with you on the Chromium project!
